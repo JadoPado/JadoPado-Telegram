@@ -1,0 +1,15 @@
+{
+    "name": "jadopado/tg-integration",
+    "description": "A real-time chat system built using the Telegram API",
+    "require": {
+        "monolog/monolog": "^1.15"
+    },
+    "license": "GPL v2",
+    "authors": [
+        {
+            "name": "Vyshakh Parakkat",
+            "email": "vyshakh.parakkat@jadopado.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}

@@ -1,0 +1,8 @@
+<?
+define('ADMIN_ID','YOUR_TELEGRAM_USER_ID');
+define('CUSTOMER_ID','YOUR_CUSTOMER_USER_ID');
+define('ADMIN_PORT','Admin service port number');/* eg .. 3000 */
+define('CUSTOMER_PORT','Client service port number');/* eg .. 3001 */
+define('HOST','localhost');
+define('LOG_PATH','logs/info.txt');
+?>
